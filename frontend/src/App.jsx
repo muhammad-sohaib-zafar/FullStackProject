@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Admin from "./Admin";
 import "./App.css";
 
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://fullstackproject-production-520b87b9.up.railway.app/api";
 
 // SVG ICONS
 const LinkedInIcon = () => (
